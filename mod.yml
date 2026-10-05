@@ -1,0 +1,11 @@
+title: Treasure Magnet Starter
+originalAuthor: ROXASBrandon
+description: >
+  Unlocks one Treasure Magnet early and sets its AP cost to 0. No range changes.
+  Steam Global 1.0.0.2 and LuaBackend required. Version 1.0.0.
+game: kh1
+assets:
+  - name: scripts/kh1_treasure_magnet_starter.lua
+    method: copy
+    source:
+      - name: scripts/kh1_treasure_magnet_starter.lua
