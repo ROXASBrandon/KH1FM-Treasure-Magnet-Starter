@@ -1,5 +1,9 @@
 # Treasure Magnet Starter
 
+![Treasure Magnet Starter banner](images/banner.png)
+
+[Download Treasure Magnet Starter on Nexus Mods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/258)
+
 **Version 1.0.0 — ROXASBrandon**
 
 Get Treasure Magnet at the start of your adventure and equip it for **0 AP**.
