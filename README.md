@@ -74,6 +74,7 @@ has not yet received a fresh gameplay verification after extraction.
 
 See `CREDITS.md` for reference credits and `CHANGELOG.md` for release notes.
 
-## Companion repository
+## My other mods
 
-https://github.com/ROXASBrandon/KH1FM-Treasure-Magnet-Vacuum
+- [Keyblade Transmog](https://github.com/ROXASBrandon/KH1FM-Keyblade-Transmog) — press Q to cycle Keyblade looks and hit sounds while keeping your equipped Keyblade's stats.
+- [Treasure Magnet Vacuum](https://github.com/ROXASBrandon/KH1FM-Treasure-Magnet-Vacuum) — 500x pickup range for items and HP/MP/munny orbs.
