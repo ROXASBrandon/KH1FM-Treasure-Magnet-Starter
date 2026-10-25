@@ -10,14 +10,6 @@ Get Treasure Magnet at the start of your adventure and equip it for **0 AP**.
 Works with new games and existing saves; no level requirement and no restart
 of your playthrough needed.
 
-## v1.0.1: gameplay detection fix
-
-The early ability grant could remain waiting for gameplay when persistent event flags were set. This update fixes false cutscene detection from persistent event flags.
-
-The same faulty check was corrected. Lua gameplay-gate tests cover the captured flag value and existing guards; a fresh live ability grant has not been retested for this fix.
-
-**Updating:** Close KH1 normally, replace the old mod copy, keep only one copy enabled, then use OpenKH **Build and Run**. Fully restart after updating; F1 reload cannot replace a native helper.
-
 ## Features
 
 - Grants Sora one ordinary Treasure Magnet if he does not already own it.
