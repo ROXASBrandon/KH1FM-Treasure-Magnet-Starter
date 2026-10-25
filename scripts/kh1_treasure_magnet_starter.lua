@@ -1,4 +1,4 @@
--- Treasure Magnet Starter v1.0.0
+-- Treasure Magnet Starter v1.0.1
 -- Steam Global 1.0.0.2 / LuaBackend. Standalone; no shared packages required.
 -- Grants one unequipped Treasure Magnet if missing; sets its AP cost to zero.
 -- Saving persists the grant. Removing this script restores AP cost on restart.
@@ -90,7 +90,7 @@ local function inGameplay()
         and ReadByte(A.hp) > 0
         and ReadByte(A.maxHP) > 0
         and ReadByte(A.warp) == 0
-        and ReadByte(A.cutscene) == 0
+        and ReadByte(A.cutscene) % 8 == 0
         and ReadInt(A.gummi) == 0
 end
 
